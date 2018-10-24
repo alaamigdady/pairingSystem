@@ -1,0 +1,67 @@
+.Add {
+  text-align: center;
+}
+
+
+
+.Add-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.input{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 35px;
+  margin-left: 35px;
+  padding: 10px 10px;;
+
+}
+
+.label1{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 170px;
+  margin-left: 130px;
+  padding: 10px 10px;;
+
+}
+
+.label2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 130px;
+  margin-left: 100px;
+  padding: 10px 10px;;
+
+}
+.button1{
+  background-color: #f44336;
+  border: 2px solid white;
+  color: white;
+  padding: 10px 10px;;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  width: 60px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 35px;
+  margin-left: 35px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
